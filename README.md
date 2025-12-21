@@ -26,5 +26,29 @@ I utilize the Command Line Interface (CLI) for all system management tasks. Belo
 2. **Remote Management:** Installed/initialized OpenSSH server and performed secure file transfers using **SCP**.
 3. **Troubleshooting:** Identified and terminated resource-heavy processes using PIDs and `kill -9`.
 
+## 🛠️ Command Reference & Technical Proficiency
+To ensure operational efficiency, I have mastered the following core Linux commands, categorized by their use-cases in a production environment.
+
+### 🔍 System Diagnosis & Navigation
+* `uname -a` – Used to verify kernel version ($6.14.0$) and system architecture.
+* `ls -la` – Visualizing directory structures and hidden configuration files.
+* `pwd` – Confirming absolute paths during script execution and file management.
+
+### 🔐 Security & Permission Management
+* `chmod` – Managing read/write/execute permissions to secure sensitive data.
+* `chown` – Assigning proper user/group ownership to system directories.
+* `sudo` – Implementing administrative changes using the principle of least privilege.
+
+### 📈 Resource & Process Monitoring
+* `top` – Real-time monitoring of CPU and RAM distribution.
+* `df -h` – Analyzing disk partition usage in human-readable formats.
+* `free -m` – Monitoring memory consumption to troubleshoot performance bottlenecks.
+* `kill -9` – Force-terminating unresponsive or "zombie" processes via PIDs.
+
+### 🌐 Network Operations
+* `ip addr` – Identifying network interfaces and local IP assignments.
+* `ping` – Diagnosing network latency and server reachability.
+* `ssh` – (Practiced) Establishing secure remote connections for off-site administration.
+
 ## 📝 Learning Philosophy
 I am committed to technical honesty and precision. I document my workflows to build a reliable foundation for managing remote infrastructure and supporting global teams.
