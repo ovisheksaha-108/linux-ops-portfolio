@@ -8,6 +8,7 @@ To facilitate hands-on learning, I built a dedicated Linux workstation from the 
 
 * **Hypervisor:** VirtualBox 7.x
 * **Operating System:** Ubuntu 24.04 LTS
+* **Hardware Specs:** Lenovo IdeaPad 3 (Ryzen 5 5625U, 8GB RAM, 512gb SSD)
 * **Allocated Resources:** 4096 MB RAM | 2 Processors | 25GB Dynamic Storage
 * **Objective:** A sandbox environment for practicing system hardening, package troubleshooting, and remote administration.
 
@@ -50,5 +51,9 @@ To ensure operational efficiency, I have mastered the following core Linux comma
 * `ping` – Diagnosing network latency and server reachability.
 * `ssh` – (Practiced) Establishing secure remote connections for off-site administration.
 
-## 📝 Learning Philosophy
+### 📝 Learning Philosophy
 I am committed to technical honesty and precision. I document my workflows to build a reliable foundation for managing remote infrastructure and supporting global teams.
+
+### **📫 Connect with Me**
+* **LinkedIn:** [linkedin.com/in/ovisheksaha-it](https://linkedin.com/in/ovisheksaha-it)
+* **Email:** sahaovishek108@gmail.com
